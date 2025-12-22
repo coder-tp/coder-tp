@@ -53,4 +53,4 @@
 >
 > 祝你今天编码愉快，调试顺利！
 >
-> —— *来自 [CoderWayfarer](你的GitHub主页链接) 的代码明信片*
+> —— *来自 [CoderWayfarer](https://github.com/coder-tp) 的代码明信片*
