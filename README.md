@@ -1,4 +1,4 @@
-# 🎨 你好，我是 [CoderWay]
+# 🎨 你好，我是 [Jonas Li]
 
 旅行者！欢迎来到我的数字小站。我在这里分享经验、创造项目，并期待与你连接。
 
@@ -53,4 +53,4 @@
 >
 > 祝你今天编码愉快，调试顺利！
 >
-> —— *来自 [CoderWay](https://github.com/coder-tp) 的代码明信片*
+> —— *来自 [Jonas Li](https://github.com/coder-tp) 的代码明信片*
